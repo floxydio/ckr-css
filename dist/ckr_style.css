@@ -173,3 +173,36 @@
 }
 
 /* Button End */
+
+
+/* BG */
+
+.bg-red {
+    background-color: red;
+}
+.bg-yellow {
+    background-color: yellow;
+}
+.bg-green {
+    background-color: green;
+}
+.bg-maroon {
+    background-color: maroon;
+}
+.bg-black {
+    background-color: black;
+}
+.bg-white {
+    background-color: white;
+}
+
+
+/* Width */
+
+.wd-full {
+    width : 100%;
+}
+
+.wd-half {
+    width: 50%;
+}
