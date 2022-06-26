@@ -10,6 +10,10 @@ If you want to contribute this framework just fork this repository
 
 Version : 1.0.0 Alpha
 
+Planning for this year : 
+- Focus On Styling like Margin, Padding, Component HTML, etc
+- Can Using on React
+
 ## Installation
 
 Add to your HTML
