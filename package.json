@@ -1,0 +1,22 @@
+{
+  "name": "ckr-css",
+  "version": "1.0.0",
+  "description": "CKR CSS is build for library CSS to help your styling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/floxydio/ckr-css.git"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "Dio Okta R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/floxydio/ckr-css/issues"
+  },
+  "homepage": "https://github.com/floxydio/ckr-css#readme"
+}

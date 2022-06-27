@@ -6,7 +6,7 @@
 
 CKR Framework is CSS Library to help your styling in CSS
 
-If you want to contribute this framework just fork this repository
+If you want to contribute this framework just fork this repository, and use SCSS file
 
 Version : 1.0.0 Alpha
 
@@ -42,10 +42,10 @@ Add to your HTML
 
 Padding - Example
 
-padding-left : pdl
-padding-right : pdr
-padding-top : pdt
-padding-bottom : pdb
+padding-left : pdl <br>
+padding-right : pdr <br>
+padding-top : pdt<br>
+padding-bottom : pdb<br>
 
 If want using Padding Left for 10px just use
 
@@ -58,10 +58,10 @@ If want using Padding Left for 10px just use
 
 Margin - Example
 
-margin-left: mgl
-margin-right: mgr
-margin-top: mgt
-margin-bottom: mgb
+margin-left: mgl<br>
+margin-right: mgr<br>
+margin-top: mgt<br>
+margin-bottom: mgb<br>
 
 If want using Margin Left for 10px just use
 
@@ -95,6 +95,14 @@ Underline
             <div class="txt-underline">
                 Underline Text
             </div>
+```
+
+Container - Example
+
+```html
+    <div class="container">
+        Container
+    </div>
 ```
 ## Authors
 
