@@ -18,7 +18,7 @@ Planning for this year :
 
 Add to your HTML
 
--  Copy This Url to your <head> [CDN Link](https://raw.githubusercontent.com/floxydio/ckr-css/master/dist/ckr_style.minify.css](https://unpkg.com/ckr-css@1.0.1/dist/ckr_style.minify.css)
+-  Copy This Url to your <head> [CDN Link](https://unpkg.com/ckr-css@1.0.1/dist/ckr_style.minify.css)
 -  And Finish, you can use CKR right now :D
 
 ## Usage/Examples
