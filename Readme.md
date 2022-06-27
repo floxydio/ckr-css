@@ -23,7 +23,7 @@ Add to your HTML
 
 ## Usage/Examples
 
-Button - Example
+<bold>Button - Example</bold>
 
 ```html
     <div class="button_dark">
@@ -42,20 +42,59 @@ Button - Example
 
 Padding - Example
 
-Padding Left : 
- - pdl-1 : 10px
- - pdl-2 : 20px
- - pdl-3 : 30px
- - pdl-4 : 40px
- - pdl-5 : 50px
+padding-left : pdl
+padding-right : pdr
+padding-top : pdt
+padding-bottom : pdb
+
+If want using Padding Left for 10px just use
 
 ```html
+    <div class="pdl-1">
+        Padding Left 10px
+    </div>
+```
 
-    <div class="pdl-1"></div>
-    <div class="pdl-2"></div>
-    <div class="pdl-3"></div>
-    <div class="pdl-4"></div>
-    <div class="pdl-5"></div>
+
+Margin - Example
+
+margin-left: mgl
+margin-right: mgr
+margin-top: mgt
+margin-bottom: mgb
+
+If want using Margin Left for 10px just use
+
+```html
+    <div class="mgl-1">
+        Margin Left 10px
+    </div>
+```
+
+Text Styling - Example
+
+Center Align Text 
+
+```html
+    <div class="center">
+        Center Align Text
+    </div>
+```
+
+Italic 
+    
+```html
+        <div class="txt-italic">
+            Italic Text
+        </div>
+```
+
+Underline
+    
+```html
+            <div class="txt-underline">
+                Underline Text
+            </div>
 ```
 ## Authors
 
